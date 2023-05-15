@@ -18,3 +18,5 @@ leftdf <- left_join(umsatz,kiwo)
 
 umsatz_kiwo <-leftdf
 write.csv(umsatz_kiwo, "data.csv", row.names = FALSE)
+
+neue Zeile
